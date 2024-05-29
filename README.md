@@ -1,5 +1,4 @@
 
-    <div class="container">
         <h1>I/O Statistics Query README <span>&#x1F4BB;</span></h1>
 
         <h2>Query 1: Detailed I/O Statistics by File <span>&#x1F4C2;</span></h2>
@@ -30,4 +29,3 @@
         <p>Feel free to customize and utilize these queries to effectively monitor and optimize the I/O performance of your SQL Server databases.</p>
 
         <p>For any questions or issues, please feel free to open an issue in this repository.</p>
-    </div>
